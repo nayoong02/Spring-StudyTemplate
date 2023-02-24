@@ -1,0 +1,36 @@
+INFO  08:14:46 MemberControllerLog[getMemberList:29] - Select Member List by JPA Way.
+INFO  08:14:46 MemberControllerLog[getMemberListByJPA2:77] - Member List size - 6
+INFO  11:43:01 MemberControllerLog[getMemberList:29] - Select Member List by JPA Way.
+INFO  11:43:01 MemberControllerLog[getMemberListByJPA2:77] - Member List size - 9
+INFO  11:43:37 MemberControllerLog[selectAllMemberList:57] -   SELECT  	
+        m.id, 	
+        m.auth, 	
+        m.department, 	
+        m.name, 	
+        m.position, 	
+        m.pw, 	
+        m.rank, 	
+        m.user_id, 	
+        m.ismaster 	
+    FROM member m	
+
+INFO  11:43:37 MemberControllerLog[getMemberListByJDBC:126] - Member List size - 9
+INFO  11:43:38 MemberControllerLog[getMemberList:29] - Select Member List by JPA Way.
+INFO  11:43:42 MemberControllerLog[getMemberListByJPA:53] - Member List size - 9
+INFO  11:43:42 MemberControllerLog[getMemberList:29] - Select Member List by JPA Way.
+INFO  11:43:43 MemberControllerLog[getMemberListByJPA:53] - Member List size - 9
+INFO  11:50:29 MemberControllerLog[selectAllMemberList:57] -   SELECT  	
+        m.id, 	
+        m.auth, 	
+        m.department, 	
+        m.name, 	
+        m.position, 	
+        m.pw, 	
+        m.rank, 	
+        m.user_id, 	
+        m.ismaster 	
+    FROM member m	
+
+INFO  11:50:29 MemberControllerLog[getMemberListByJDBC:126] - Member List size - 2
+INFO  11:50:30 MemberControllerLog[getMemberList:29] - Select Member List by JPA Way.
+INFO  11:50:30 MemberControllerLog[getMemberListByJPA2:77] - Member List size - 2

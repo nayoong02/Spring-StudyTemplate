@@ -1,0 +1,122 @@
+INFO  08:09:29 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  08:09:50 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  09:45:41 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  09:45:43 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  09:52:53 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  09:53:05 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  10:03:35 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  10:03:52 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  10:10:51 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  10:10:59 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  10:14:46 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  10:14:55 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:00:32 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:00:45 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:11:09 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:11:19 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:25:11 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  11:25:12 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:25:22 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:50:01 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:50:10 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:58:00 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  11:58:10 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  13:13:31 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  13:13:55 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  13:53:02 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  13:53:16 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  14:01:53 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  14:02:02 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  14:03:28 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  14:03:39 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  14:18:22 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  14:18:38 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  14:25:43 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  14:25:53 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:02:07 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:02:17 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:13:46 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:13:57 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:18:49 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:18:58 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:23:49 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:23:59 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:25:25 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:25:30 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:25:36 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:26:10 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:26:11 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:26:35 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:26:37 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:26:43 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:27:06 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:27:36 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:27:46 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:27:52 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:30:58 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:31:08 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:31:14 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:31:15 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:31:20 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:31:22 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:31:30 ViewControllerLog[view2Page:62] - REQUEST url - page 2
+INFO  16:31:30 ViewControllerLog[view1Page:50] - REQUEST url - page 1
+INFO  16:31:31 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:31:31 ViewControllerLog[view1Page:50] - REQUEST url - page 1
+INFO  16:31:42 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:31:44 ViewControllerLog[view1Page:50] - REQUEST url - page 1
+INFO  16:31:44 ViewControllerLog[view2Page:62] - REQUEST url - page 2
+INFO  16:31:45 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:31:45 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:31:46 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:31:47 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:31:57 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:32:00 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:32:02 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:32:08 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:32:16 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:32:20 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:32:21 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:32:34 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:34:36 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:34:40 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:35:37 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:36:13 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:36:14 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:36:19 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:36:20 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:36:42 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:40:31 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:41:41 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:41:49 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:41:57 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:42:21 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:42:30 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:43:03 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:43:20 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:43:25 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:43:32 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:43:33 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:41 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:41 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:41 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:41 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:42 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:42 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:42 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:42 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:42 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:42 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:43:49 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:43:50 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:53:21 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:53:23 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:53:56 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:53:57 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:54:08 ViewControllerLog[registerPage:86] - REQUEST url - register
+INFO  16:54:10 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:54:17 ViewControllerLog[loginPage:26] - REQUEST url - login
+INFO  16:54:25 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:54:26 ViewControllerLog[view3Page:74] - REQUEST url - page 3
+INFO  16:54:33 ViewControllerLog[mainPage:38] - REQUEST url - /
+INFO  16:54:36 ViewControllerLog[view3Page:74] - REQUEST url - page 3
