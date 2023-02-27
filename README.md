@@ -6,7 +6,7 @@
 
 ## 🛠 Tech
 - Spring Framework
-- Vue Js
+- Vue js
 - JPA, JDBC
 - pgAdmin - postgreSQL
 - IDE STS
