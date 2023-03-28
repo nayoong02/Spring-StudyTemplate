@@ -1,4 +1,0 @@
-INFO  19:12:35 MemberControllerLog[getMemberList:29] - Select Member List by JPA Way.
-INFO  19:12:35 MemberControllerLog[getMemberListByJPA2:78] - Member List size - 33
-INFO  19:12:51 MemberControllerLog[getMemberList:29] - Select Member List by JPA Way.
-INFO  19:12:51 MemberControllerLog[getMemberListByJPA2:78] - Member List size - 33
